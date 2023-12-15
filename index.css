@@ -1,5 +1,15 @@
-.column {
+.column1 {
   float: left;
+  width: 33.33%;
+}
+
+.column2 {
+  float: center;
+  width: 33.33%;
+}
+
+.column3 {
+  float: right;
   width: 33.33%;
 }
 
