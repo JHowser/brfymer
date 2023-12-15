@@ -4,7 +4,7 @@
 }
 
 .column2 {
-  float: middle;
+  margin: 0 auto;
   width: 33.33%;
 }
 
